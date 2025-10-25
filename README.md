@@ -197,3 +197,5 @@ credit_union_growth/
 
 ---
 
+© 2025 Victor King — Project for portfolio demonstration.  
+Licensed under the [MIT License](./LICENSE).
