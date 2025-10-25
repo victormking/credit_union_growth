@@ -1,5 +1,6 @@
 # 🏦 Credit Union Growth Analytics  
 ### End-to-End SQL Marketing & Retention Analysis (DuckDB Project)
+---
 
 ## 🧭 Overview
 
