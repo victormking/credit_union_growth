@@ -1,6 +1,15 @@
 # 🏦 Credit Union Growth Analytics  
 ### End-to-End SQL Marketing & Retention Analysis (DuckDB Project)
 
+## 🧭 Overview
+
+This project simulates the **data analytics workflow of a Credit Union Growth Strategy team** — analyzing member acquisition, engagement, and retention using SQL inside **DuckDB**.  
+
+It demonstrates a full **end-to-end analytical process**, from raw CSV ingestion to engineered views, KPI tracking, business insights, and export-ready results.  
+
+The dataset mimics a real-world **member lifecycle and campaign effectiveness environment**, similar to how a marketing analytics or growth team at a financial institution (like Meritrust Credit Union) would operate.
+
+---
 ---
 <p align="center">
   <img src="https://img.shields.io/badge/DuckDB-ffca28?style=for-the-badge&logo=duckdb&logoColor=000" />
@@ -49,18 +58,6 @@ This diagram shows how the six raw CSVs relate inside DuckDB:
 - **accounts** & **transactions** → financial behavior  
 - **member_events** → digital activity  
 - **campaigns** & **campaign_touch** → marketing engagement  
-
----
-
-
-
-## 🧭 Overview
-
-This project simulates the **data analytics workflow of a Credit Union Growth Strategy team** — analyzing member acquisition, engagement, and retention using SQL inside **DuckDB**.  
-
-It demonstrates a full **end-to-end analytical process**, from raw CSV ingestion to engineered views, KPI tracking, business insights, and export-ready results.  
-
-The dataset mimics a real-world **member lifecycle and campaign effectiveness environment**, similar to how a marketing analytics or growth team at a financial institution (like Meritrust Credit Union) would operate.
 
 ---
 
