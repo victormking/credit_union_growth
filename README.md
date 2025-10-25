@@ -10,17 +10,6 @@
   <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
 </p>
 
-# 🏦 Credit Union Growth Analytics
-End-to-End SQL Marketing & Retention Analysis (DuckDB Project)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DuckDB-ffca28?style=for-the-badge&logo=duckdb&logoColor=000" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
-</p>
-
 ---
 
 ## 🚀 Quickstart (Run in 60 Seconds)
