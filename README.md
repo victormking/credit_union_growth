@@ -96,14 +96,14 @@ Each question represents a distinct business problem or KPI scenario relevant to
 
 ## 💡 Stage 3 — Insights & Recommendations (Q23)
 
-(Planned section — to be published after Q22 review)
+### [Stage 3 — Insights & Recommendations](./insight&recommendations.md)
+See the full analysis and business recommendations in the [Q23 Insights Report](./insight&recommendations.md).
 
-This stage will synthesize results into a **storytelling narrative** that answers:
-- What marketing channels drive conversions most efficiently?  
-- Which member demographics are most profitable or at risk of churn?  
-- How can we allocate budgets or campaigns for optimal growth?
-
-All Q01–Q22 outputs are integrated into the forthcoming insight layer and dashboards.
+Key highlights:
+- 20–25% budget reallocation opportunity toward high-ROI channels  
+- 17-point retention lift via digital onboarding  
+- Cross-sell and reactivation pathways for checking-only members  
+- CRM lead scoring logic from the Next-Best-Campaign model (Q22)
 
 ---
 
