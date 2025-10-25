@@ -1,0 +1,7 @@
+tbl,count_star()
+members,10000
+accounts,20000
+transactions,250000
+campaigns,15
+campaign_touch,30000
+member_events,80000

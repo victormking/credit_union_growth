@@ -1,0 +1,16 @@
+campaign_id,campaign_name,channel,budget,conversions,cpa
+C202412,community_event_signup,email,5231.3,96,54.49
+C202402,summer_savings_drive,branch,7575.69,102,74.27
+C202403,refer_a_friend_bonus,paid_ads,14840.82,80,185.51
+C202409,credit_card_cashback,paid_ads,15832.4,79,200.41
+C202404,back_to_school_loan_offer,email,19260.06,86,223.95
+C202401,$200_new_checking_bonus,paid_ads,21441.53,81,264.71
+C202414,online_banking_upgrade,social,29980.63,101,296.84
+C202410,auto_loan_rate_cut,email,30627.36,102,300.27
+C202413,high_yield_cd_promo,paid_ads,33754.96,101,334.21
+C202411,student_checking_offer,social,33483.17,90,372.04
+C202406,mobile_app_signup_reward,paid_ads,32383.59,75,431.78
+C202408,first_home_mortgage_offer,social,41870.49,95,440.74
+C202407,spring_savings_match,social,41623.51,86,483.99
+C202415,new_member_gift_card,branch,46516.24,85,547.25
+C202405,holiday_cashback,email,46655.18,71,657.12

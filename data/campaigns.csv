@@ -1,0 +1,16 @@
+campaign_id,campaign_name,start_date,end_date,channel,budget,target_segment
+C202401,$200_new_checking_bonus,2024-01-01,2024-02-15,paid_ads,21441.53,branch_signups
+C202402,summer_savings_drive,2024-01-31,2024-03-16,branch,7575.69,retirees
+C202403,refer_a_friend_bonus,2024-03-01,2024-04-15,paid_ads,14840.82,young_professionals
+C202404,back_to_school_loan_offer,2024-03-31,2024-05-15,email,19260.06,students
+C202405,holiday_cashback,2024-04-30,2024-06-14,email,46655.18,new_members
+C202406,mobile_app_signup_reward,2024-05-30,2024-07-14,paid_ads,32383.59,new_members
+C202407,spring_savings_match,2024-06-29,2024-08-13,social,41623.51,existing_members
+C202408,first_home_mortgage_offer,2024-07-29,2024-09-12,social,41870.49,high_income
+C202409,credit_card_cashback,2024-08-28,2024-10-12,paid_ads,15832.4,students
+C202410,auto_loan_rate_cut,2024-09-27,2024-11-11,email,30627.36,students
+C202411,student_checking_offer,2024-10-27,2024-12-11,social,33483.17,high_income
+C202412,community_event_signup,2024-11-26,2025-01-10,email,5231.3,young_professionals
+C202413,high_yield_cd_promo,2024-12-26,2025-02-09,paid_ads,33754.96,branch_signups
+C202414,online_banking_upgrade,2025-01-25,2025-03-11,social,29980.63,new_members
+C202415,new_member_gift_card,2025-02-24,2025-04-10,branch,46516.24,retirees

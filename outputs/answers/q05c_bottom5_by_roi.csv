@@ -1,0 +1,6 @@
+campaign_id,campaign_name,channel,budget,deposit_lift,roi
+C202410,auto_loan_rate_cut,email,30627.36,-124655.25000000006,-5.07
+C202403,refer_a_friend_bonus,paid_ads,14840.82,-33869.89000000007,-3.28
+C202406,mobile_app_signup_reward,paid_ads,32383.59,-48936.4500000003,-2.51
+C202412,community_event_signup,email,5231.3,-7856.049999999697,-2.5
+C202409,credit_card_cashback,paid_ads,15832.4,-23377.579999999376,-2.48

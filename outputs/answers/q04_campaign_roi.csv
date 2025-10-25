@@ -1,0 +1,16 @@
+campaign_id,campaign_name,channel,budget,deposit_lift,roi
+C202402,summer_savings_drive,branch,7575.69,36770.5099999996,3.85
+C202404,back_to_school_loan_offer,email,19260.06,91194.35999999964,3.73
+C202401,$200_new_checking_bonus,paid_ads,21441.53,83653.37000000017,2.9
+C202414,online_banking_upgrade,social,29980.63,47905.73000000004,0.6
+C202415,new_member_gift_card,branch,46516.24,34035.65999999974,-0.27
+C202407,spring_savings_match,social,41623.51,27651.650000000314,-0.34
+C202413,high_yield_cd_promo,paid_ads,33754.96,8171.970000000263,-0.76
+C202408,first_home_mortgage_offer,social,41870.49,-8288.600000000442,-1.2
+C202405,holiday_cashback,email,46655.18,-13618.700000000244,-1.29
+C202411,student_checking_offer,social,33483.17,-47226.53999999986,-2.41
+C202409,credit_card_cashback,paid_ads,15832.4,-23377.579999999376,-2.48
+C202412,community_event_signup,email,5231.3,-7856.049999999697,-2.5
+C202406,mobile_app_signup_reward,paid_ads,32383.59,-48936.4500000003,-2.51
+C202403,refer_a_friend_bonus,paid_ads,14840.82,-33869.89000000007,-3.28
+C202410,auto_loan_rate_cut,email,30627.36,-124655.25000000006,-5.07
