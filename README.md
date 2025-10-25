@@ -10,6 +10,61 @@
   <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
 </p>
 
+# 🏦 Credit Union Growth Analytics
+End-to-End SQL Marketing & Retention Analysis (DuckDB Project)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DuckDB-ffca28?style=for-the-badge&logo=duckdb&logoColor=000" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Quickstart (Run in 60 Seconds)
+
+Clone the repo and open DuckDB CLI from the project root:
+
+```sql
+.open credit_union.duckdb;
+SET schema 'cu';
+
+-- Run setup and analysis scripts
+.read sql/01_setup_and_views.sql
+.read sql/02_q01_to_q22.sql
+```
+
+All paths are **relative to the repo root**, so it runs anywhere without editing.
+
+Outputs (views + answers) are written to:  
+`/outputs/` → summarized views  
+`/outputs/answers/` → Q1–Q22 final CSVs
+
+---
+
+## 🧭 Mini ERD (Schema Overview)
+
+```mermaid
+erDiagram
+  members ||--o{ accounts : has
+  accounts ||--o{ transactions : records
+  members ||--o{ member_events : performs
+  campaigns ||--o{ campaign_touch : sends
+  members ||--o{ campaign_touch : receives
+```
+
+This diagram shows how the six raw CSVs relate inside DuckDB:
+- **members** → central entity  
+- **accounts** & **transactions** → financial behavior  
+- **member_events** → digital activity  
+- **campaigns** & **campaign_touch** → marketing engagement  
+
+---
+
+
+
 ## 🧭 Overview
 
 This project simulates the **data analytics workflow of a Credit Union Growth Strategy team** — analyzing member acquisition, engagement, and retention using SQL inside **DuckDB**.  
