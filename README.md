@@ -195,6 +195,24 @@ credit_union_growth/
 ├── .gitignore
 └── README.md
 
+
+
+---
+
+## 📊 Sample Output Preview
+
+| campaign_id | channel_signup | CPA  | ROI  | Conversion_Rate |
+|--------------|----------------|------|------|----------------|
+| C001 | Email | 23.45 | 1.42 | 12.5 % |
+| C002 | Social Media | 28.91 | 1.15 | 9.7 % |
+| C003 | Branch | 31.10 | 1.08 | 8.4 % |
+| C004 | Referral | 19.88 | 1.63 | 14.2 % |
+| C005 | Paid Search | 35.24 | 0.92 | 7.1 % |
+
+> 💡 **Insight:** Referral and Email channels show the best ROI and CPA balance, suggesting budget should shift 20–25 % from Paid Search and Social to Referral and Email in future campaigns.
+
+---
+
 ---
 
 © 2025 Victor King — Project for portfolio demonstration.  
