@@ -146,3 +146,28 @@ credit_union_growth/
 ├── credit_union.duckdb       # Local database (ignored in .gitignore)
 ├── .gitignore
 └── README.md
+
+
+🧠 Key Learning Outcomes
+
+Built a modular SQL analytics pipeline using DuckDB.
+
+Simulated marketing KPIs (CPA, ROI, retention, engagement).
+
+Practiced growth & acquisition analysis in a financial context.
+
+Created engineered views to unify disparate data sources.
+
+Delivered replicable outputs suitable for BI dashboards.
+
+
+👨‍💻 Author
+
+Victor King
+🎓 M.S. in Sport Analytics — Syracuse University
+💼 Data Analyst & BI Developer (Growth / Marketing Analytics)
+🌐 victormking.github.io/portfolio-site
+
+🔗 LinkedIn
+
+💻 GitHub
