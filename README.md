@@ -147,6 +147,7 @@ credit_union_growth/
 ├── .gitignore
 └── README.md
 
+---
 
 🧠 Key Learning Outcomes
 
@@ -171,3 +172,4 @@ Victor King
 🔗 LinkedIn
 
 💻 GitHub
+
