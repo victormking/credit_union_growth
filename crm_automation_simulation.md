@@ -6,13 +6,14 @@ The SQL views and analytical questions reproduce every layer of that workflow: d
 ---
 
 ## 🧱 How a CRM System Works
+
 A Customer Relationship Management (CRM) platform is a live database of members or customers that connects to every other system — website, app, transactions, and campaigns.  
 Each login, purchase, or email open creates an event record tied to a single `member_id`.  
 Automation tools like **Marketo**, **HubSpot**, or **Braze** then listen for those events and trigger actions (emails, texts, lead-score updates) according to business rules.
 
 ---
 
-## 🔄 Simulation Mapping in This Project
+## 🧩 Simulation Mapping in This Project
 
 | Real-World Concept | This Project’s Equivalent |
 |--------------------|---------------------------|
@@ -30,22 +31,8 @@ Automation tools like **Marketo**, **HubSpot**, or **Braze** then listen for tho
 
 ```mermaid
 flowchart LR
-  A[Member Activity / Events] --> B[CRM (v_member_360)]
-  B --> C[Automation Logic (Q22)]
-  C --> D[Campaign Email / SMS Delivery]
-  D --> B
-  B --> E[Analytics & Dashboards (Q01–Q24)]
-
-🧩 Summary
-
-This workflow turns static CSVs into a functioning CRM-like system:
-
-Collects data from multiple sources (members, accounts, transactions, events, campaigns).
-
-Builds engineered views that replicate a CRM database.
-
-Implements automation logic through SQL rules and lead scoring.
-
-Generates insights and dashboards for marketing and retention strategy.
-
-Together these steps simulate how a growth-analytics team uses real CRM and automation platforms to drive member retention, cross-sell opportunities, and ROI.
+    A["Member Activity / Events"] --> B["CRM (v_member_360)"]
+    B --> C["Automation Logic (Q22)"]
+    C --> D["Campaign Email / SMS Delivery"]
+    D --> B
+    B --> E["Analytics & Dashboards (Q01–Q24)"]
