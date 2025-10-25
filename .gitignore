@@ -1,0 +1,27 @@
+# ===========================================
+# Credit Union Growth Analytics - .gitignore
+# ===========================================
+
+# Ignore DuckDB database files
+*.duckdb
+*.wal
+*.db
+*.sqlite
+*.log
+
+# Ignore OS system junk
+.DS_Store
+Thumbs.db
+
+# Ignore full raw data (keep only samples if needed)
+/data/*.csv
+!/data/sample_*.csv
+
+# Ignore generated outputs
+/outputs/answers/*.csv
+/outputs/views/*.csv
+
+# Keep SQL, notebooks, and docs
+!sql/*
+!notebooks/*
+!README.md
